@@ -22,7 +22,7 @@ Please contribute ideas, issues and PRs!
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-# Ember.js - Mobile Animations and Gestures demo app
+### Ember.js - Mobile Animations and Gestures demo app
 
 [Check out the demo on Heroku](http://ember-mobile-animations.herokuapp.com)
 
@@ -48,3 +48,5 @@ To get this demo running:
 4. `rake db:seed`
 
 5. `rails s`
+
+#### 10 May 2015 Oleg G.Kapranov
